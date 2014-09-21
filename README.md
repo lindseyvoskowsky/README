@@ -1,8 +1,8 @@
 #To-do Application#
 
-Estimate: 6 person-hours
+Time estimate: 6 person-hours
 
-Date of last deployment commit/push: Thursday, 9/25, 9pm. 
+Date of last deployment commit/push: Thursday, 9/25, 9:00PM
 
 ###Functional specifications:###
 
