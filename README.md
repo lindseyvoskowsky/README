@@ -1,6 +1,6 @@
 #To-do Application#
 
-Estimate: 5 person-hours
+Estimate: 6 person-hours
 
 Date of last deployment commit/push: Thursday, 9/25, 9pm. 
 
@@ -28,4 +28,3 @@ Date of last deployment commit/push: Thursday, 9/25, 9pm.
 
 ###Wireframe:###
 ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
