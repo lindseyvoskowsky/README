@@ -4,6 +4,7 @@ README
 To-do app
 
 Functional specifications:
+
 1. Basic application in a nutshell - todo app - list of tasks, checked off when completed
 2. when checked, each task should be grayed-out and struck-through
 3. I want a complementary color palette in either Spring or Fall tones
