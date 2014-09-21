@@ -27,4 +27,4 @@ Date of last deployment commit/push: Thursday, 9/25, 9pm.
 14. No drag and drop (yet). No grouping. No flags.
 
 ###Wireframe:###
-![alt text][https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/s720x720/16756_10102170503759951_8408221174134071774_n.jpg?oh=0e3dcdac015a5aeacac8ea66df9682fe&oe=54CD5E5D&__gda__=1422347914_384d70865fb050a55fdd4c12938b956b)
+![alt text](https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/s720x720/16756_10102170503759951_8408221174134071774_n.jpg?oh=0e3dcdac015a5aeacac8ea66df9682fe&oe=54CD5E5D&__gda__=1422347914_384d70865fb050a55fdd4c12938b956b)
