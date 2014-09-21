@@ -1,7 +1,11 @@
 README
 ======
 
-To-do app
+*To-do Application*
+
+Estimate of how many person-hours: 
+
+Date of last deployment commit/push: Thursday, 9/25, 9pm. 
 
 Functional specifications:
 
