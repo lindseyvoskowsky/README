@@ -1,13 +1,10 @@
-README
-======
-
-*To-do Application*
+#To-do Application#
 
 Estimate: 5 person-hours
 
 Date of last deployment commit/push: Thursday, 9/25, 9pm. 
 
-Functional specifications:
+###Functional specifications:###
 
 1. Basic application in a nutshell - todo app - list of tasks, checked off when completed
 2. When checked, each task should be grayed-out and struck-through
@@ -28,3 +25,6 @@ Functional specifications:
 12. The list must be vertical, no numbers or bullets. List appears in order of entry.
 13. It would be nice to try both newest-first and oldest first and decide.
 14. No drag and drop (yet). No grouping. No flags.
+
+###Wireframe:###
+![alt text](https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/p720x720/10559904_10102055191601441_6766849081713735329_n.jpg?oh=2968484757f43ccd3e30061e146df106&oe=545A5E57&__gda__=1414803436_68d4e1666e4a63de78a89d20bc63e81b)
